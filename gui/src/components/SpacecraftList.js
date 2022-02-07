@@ -81,8 +81,8 @@ function SpacecraftList() {
     setIsDialogShown(true);
     setIsNewRecord(true);
     setNume("");
-    setViteza_maxima(0);
-    setMasa(0);
+    setViteza_maxima("");
+    setMasa("");
   };
 
   const hideDialog = () => {
@@ -97,8 +97,8 @@ function SpacecraftList() {
         setIsDialogShown(false);
         setSelectedSpacecraft(null);
         setNume("");
-        setViteza_maxima(0);
-        setMasa(0);
+        setViteza_maxima("");
+        setMasa("");
       } else {
         if (nume.length < 3) {
           toast.error("Numele trebuie sa aiba cel putin 3 caractere!");
@@ -150,8 +150,8 @@ function SpacecraftList() {
     toast.success("Import realizat cu succes!");
     setSelectedSpacecraft(null);
     setNume("");
-    setViteza_maxima(0);
-    setMasa(0);
+    setViteza_maxima("");
+    setMasa("");
     window.location.reload();
   };
 

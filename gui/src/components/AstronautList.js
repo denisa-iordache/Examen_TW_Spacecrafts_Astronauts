@@ -149,7 +149,7 @@ function AstronautList() {
     <div>
       <ToastContainer />
       <div>
-          <h3>Lista astronalor:</h3>
+          <h3>Lista astronautilor:</h3>
       </div>
       <DataTable value={astronauts} footer={tableFooter} lazy>
         <Column header="Nume" field="nume" />
