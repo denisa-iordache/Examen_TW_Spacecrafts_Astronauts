@@ -1,0 +1,19 @@
+[
+	{
+		"nume": "Mercury",
+		"viteza_maxima": "1500",
+		"masa": "300",
+		"astronauts":[
+			{
+				"key":"astronaut01",
+				"nume": "Grigore Silviu",
+				"rol": "COMMANDER"
+			},
+			{
+				"key":"astronaut02",
+				"nume": "Tudor Alexandru",
+				"rol": "PILOT"
+			}
+		]
+	}
+]
