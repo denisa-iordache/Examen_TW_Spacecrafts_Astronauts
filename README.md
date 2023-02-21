@@ -8,7 +8,7 @@ https://exameniordachedenisa.herokuapp.com/
   Aplicația încarcată pe GitHub conține codul sursă pentru rulare pe localhost, însă câteva modificări au fost necesare pentru ca aceasta să poată fi încărcată pe Heroku.
 
 ## Funcționalitățile aplicației
-  Aplicația permite adăugarea, ștergerea, modificarea și vizualizarea de nave spațiale, iar pentru fiecare navă pot fi vizualizați, adaugați, șterși sau modificați astronauți. Se poate face un impot din format JSON de nave spațiale cu astronauții fiecăreia sau se pot exporta datele existente în format JSON.<br/>
+  Aplicația permite adăugarea, ștergerea, modificarea și vizualizarea de nave spațiale, iar pentru fiecare navă pot fi vizualizați, adaugați, șterși sau modificați astronauți. Se poate face un import din format JSON de nave spațiale cu astronauții fiecăreia sau se pot exporta datele existente în format JSON.<br/>
   ![image](https://user-images.githubusercontent.com/74931542/195374115-3bbd1217-921a-4e90-8cc9-2a33cbb723b1.png)
   
 ## Capturi de ecran din aplicație
